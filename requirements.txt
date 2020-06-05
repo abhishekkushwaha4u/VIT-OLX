@@ -1,4 +1,4 @@
-Django==2.2.8
+Django==2.2.13
 django-phone-field==1.8.0
 djangorestframework==3.10.2
 Pillow==6.1.0
